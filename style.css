@@ -30,8 +30,8 @@ section::before {
 
 section img {
     position: absolute;
-    /* top: 0; */
-    /* left: 0; */
+    top: 0;
+    left: 0;
     max-width: 100%;
 }
 
@@ -52,4 +52,9 @@ section img {
     color: #fff;
     line-height: 1.5em;
     font-family: consolas;
+}
+
+#wolf {
+    left: 100%;
+    bottom: 0;
 }
