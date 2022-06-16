@@ -18,7 +18,7 @@ section {
     overflow: hidden;
 }
 
-section img {}
+section img {position: absolute;}
 
 .sec {
     position: relative;
