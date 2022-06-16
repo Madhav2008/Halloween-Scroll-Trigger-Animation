@@ -21,7 +21,8 @@ section {
 section::before {
     content: '';
     position: absolute;
-    bottom: 0;width: 100%;
+    bottom: 0;
+    width: 100%;
 }
 
 section img {
