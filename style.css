@@ -11,4 +11,6 @@ body {
     background: #010405;
 }
 
-section {position: relative;}
+section {
+    position: relative;
+}
