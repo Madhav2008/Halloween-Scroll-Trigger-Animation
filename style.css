@@ -16,7 +16,7 @@ section {
     width: 100%;
     height: 100vh;
     overflow: hidden;
-    max-width: 100%;
+    max-width: 80%;
 }
 
 section img {
