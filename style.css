@@ -32,7 +32,7 @@ section img {
     top: 0;
     left: 0;
     max-width: 100%;
-    background: linear-gradient(top, #010405, transparent);
+    background: linear-gradient(to top, #010405, transparent);
 }
 
 .sec {
