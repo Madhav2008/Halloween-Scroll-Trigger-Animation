@@ -28,5 +28,9 @@ section {
     font-size: 5em;
     color: #ff9425;
 }
+.sec h2 {
+    font-size: 5em;
+    color: #ff9425;
+}
 
 .sec .content {}
