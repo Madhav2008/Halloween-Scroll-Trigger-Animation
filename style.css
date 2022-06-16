@@ -18,4 +18,6 @@ section {
     overflow: hidden;
 }
 
-.sec {position: relative;}
+.sec {
+    position: relative;
+}
