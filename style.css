@@ -30,8 +30,6 @@ section::before {
 
 section img {
     position: absolute;
-    top: 0;
-    left: 0;
     max-width: 100%;
 }
 
@@ -55,6 +53,6 @@ section img {
 }
 
 #wolf {
-    right: 100%;
+    right: 0;
     bottom: 0;
 }
