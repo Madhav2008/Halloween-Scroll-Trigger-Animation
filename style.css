@@ -28,9 +28,11 @@ section {
     font-size: 5em;
     color: #ff9425;
 }
+
 .sec p {
     font-size: 1.2em;
-    color: #fff;line-height: 1.5em;
+    color: #fff;
+    line-height: 1.5em;
 }
 
 .sec .content {}
