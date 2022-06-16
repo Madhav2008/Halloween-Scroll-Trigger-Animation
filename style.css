@@ -54,7 +54,7 @@ section img {
 
 #wolf {
     right: 0;
-    bottom: 0;
+    bottom: -100;
     width: 80%;
 }
 
