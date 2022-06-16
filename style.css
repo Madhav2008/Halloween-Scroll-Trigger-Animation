@@ -30,7 +30,7 @@ section {
 }
 .sec p {
     font-size: 1.2em;
-    color: #fff;
+    color: #fff;line-height: 1.5em;
 }
 
 .sec .content {}
