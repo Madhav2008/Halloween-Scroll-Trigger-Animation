@@ -54,7 +54,12 @@ section img {
     font-family: consolas;
 }
 
-#wolf {
+section img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+}#wolf {
     right: 0;
     bottom: 0;
 }
