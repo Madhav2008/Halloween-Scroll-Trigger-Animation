@@ -16,7 +16,9 @@ section {
     width: 100%;
     height: 100vh;
     overflow: hidden;
-}section::before {}
+}
+
+section::before {}
 
 section img {
     position: absolute;
