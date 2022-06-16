@@ -20,7 +20,7 @@ section {
 
 section::before {
     content: '';
-    position: absolute;
+    position: absolute;bottom: 0;
 }
 
 section img {
