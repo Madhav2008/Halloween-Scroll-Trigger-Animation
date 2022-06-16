@@ -28,12 +28,12 @@ section::before {
     z-index: 100000;
 }
 
-/* section img {
+section img {
     position: absolute;
     top: 0;
     left: 0;
     max-width: 100%;
-} */
+}
 
 .sec {
     position: relative;
