@@ -19,7 +19,7 @@ section {
 }
 
 section img {
-    position: absolute;
+    position: absolute;top: 0;
 }
 
 .sec {
