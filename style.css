@@ -24,6 +24,8 @@ section {
     text-align: center;
 }
 
-.sec h2 {font-size: 5em;}
+.sec h2 {
+    font-size: 5em;
+}
 
 .sec .content {}
