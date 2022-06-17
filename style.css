@@ -61,7 +61,8 @@ section img {
 #castle {
     left: 200px;
     bottom: -100px;
-    width: 40%;height: 100%;
+    width: 40%;
+    height: 100%;
 }
 
 #witch {
