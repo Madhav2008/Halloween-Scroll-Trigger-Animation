@@ -53,7 +53,7 @@ section img {
 }
 
 #wolf {
-    right: 0;
+    right: -200px;
     bottom: 0;
     width: 100%;
 }
