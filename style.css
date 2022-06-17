@@ -74,4 +74,6 @@ section img {
     height: 100vh;
 }
 
-#bats {left: 50%;}
+#bats {
+    left: 50%;
+}
