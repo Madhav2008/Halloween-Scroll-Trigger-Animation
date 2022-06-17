@@ -60,7 +60,7 @@ section img {
 
 #castle {
     left: 200px;
-    bottom: -100px;
+    bottom: 0px;
     width: 40%;
     height: 100%;
 }
