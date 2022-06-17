@@ -30,7 +30,7 @@ section::before {
 
 section img {
     position: absolute;
-    max-width: 200%;
+    max-width: 100%;
 }
 
 .sec {
